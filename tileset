@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "1 wall.png",
+	"frame": {"x":0,"y":0,"w":16,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":8},
+	"sourceSize": {"w":16,"h":8}
+},
+{
+	"filename": "2 ladder.png",
+	"frame": {"x":16,"y":0,"w":16,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":8},
+	"sourceSize": {"w":16,"h":8}
+},
+{
+	"filename": "3 egg.png",
+	"frame": {"x":32,"y":0,"w":16,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":8},
+	"sourceSize": {"w":16,"h":8}
+},
+{
+	"filename": "4 grain.png",
+	"frame": {"x":48,"y":0,"w":16,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":8},
+	"sourceSize": {"w":16,"h":8}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tileset.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":8},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:74652f67efefa263b89c4f519f1ed16b:b7d5971d443458fd7f79ae030a4fd0ce:15e63b777a6b2e9bcb6606412287ab1c$"
+}
+}
