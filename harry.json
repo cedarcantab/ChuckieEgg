@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "aright.png",
+	"frame": {"x":0,"y":0,"w":16,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":54},
+	"sourceSize": {"w":16,"h":54}
+},
+{
+	"filename": "output-onlinepngtools (7).png",
+	"frame": {"x":0,"y":54,"w":16,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":54},
+	"sourceSize": {"w":16,"h":54}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "harry.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":108},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f898393d68101af31cbf87f34d64876e:7d51b410e9407db21651eee4c6ea6ef2:4f8488669e4b528db8f8f90ac448ca50$"
+}
+}
